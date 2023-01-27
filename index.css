@@ -76,6 +76,10 @@ li {
     width: 100%;
 }
 
+.sign-in:hover {
+    background-color: rgb(255, 204, 63);
+}
+
 li {
     list-style: none;
     padding-bottom: 25px;
@@ -112,6 +116,9 @@ li::before {
     margin-bottom: 60px;
     height: 30px;
     border: 2px solid rgb(228, 222, 222);
+}
+.sign-up:hover {
+    background-color: rgb(228, 222, 222);
 }
 
 hr {
