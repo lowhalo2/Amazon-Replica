@@ -51,6 +51,11 @@ input {
     padding-top: 15px;
 }
 
+li {
+    margin: 0px;
+    color: rgb(56, 138, 247);
+}
+
 .link-text {
     margin: 0px;
     text-decoration: none;
