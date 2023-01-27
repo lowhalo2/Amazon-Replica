@@ -58,6 +58,10 @@ input {
     font-size: 1.05em;
 }
 
+.help {
+    padding-left: 15px;
+}
+
 .sign-in {
     margin-top: 25px;
     margin-bottom: 25px;
